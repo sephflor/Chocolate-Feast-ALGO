@@ -1,1 +1,1 @@
-# Chocolate-Feast-ALGO
+# Chocolate-Feast-ALGO.This program calculates the total number of chocolates one can eat given a budget, chocolate price, and a wrapper-exchange rule. It first buys as many chocolates as the money allows, then repeatedly exchanges wrappers for free chocolates until not enough wrappers remain, summing all chocolates eaten and outputting the result for each test case.
